@@ -1,0 +1,21 @@
+{
+  "name": "@lucky/first_package",
+  "version": "1.0.0",
+  "description": "my package for how-to-npm exercise 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "how-to-npm-1"
+  },
+  "keywords": [
+    "how-to-npm-1"
+  ],
+  "author": "Lucky",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
