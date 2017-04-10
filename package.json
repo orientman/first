@@ -1,5 +1,5 @@
 {
-  "name": "@lucky/first_package",
+  "name": "@orientman/first_package",
   "version": "1.0.0",
   "description": "my package for how-to-npm exercise 1",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/orientman/first.git"
+    "url": "orientman/first.git"
   },
   "keywords": [
     "how-to-npm-1"
   ],
-  "author": "Lucky",
+  "author": "orientman",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
